@@ -28,5 +28,7 @@
   this reruns the tests from step 6, but with now "ListExamples.java" has changes to it.
 
   #### Step 9: ![Step9](Step9.png)
-  I typed out "ssh doquendo@ieng6.ucsd.edu", the pressed `<enter>`, this allows  
-  me to login to the remote computer via previously set up keys.
+  I typed: git`<space>`add`<space>`.`<enter>`. This stages the changes for commiting, then  
+  I typed: git`<space>`commit`<space>`-m`<space>`"here`<space>`you`<space>`go"`<enter>`.  
+  This commits the changes to the repo. Then I typed: git`<space>`push`<space>`origin`<space>`main`<enter>`.  
+  This last bit pushes the changes back to orginal repo this was cloned from on the main branch.
