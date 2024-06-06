@@ -24,8 +24,8 @@
   correct number: 2, then return to normal mode, and ZZ to save and exit.
 
   #### Step 8: ![Step8](Step8.png)
-  I typed out "ssh doquendo@ieng6.ucsd.edu", the pressed `<enter>`, this allows  
-  me to login to the remote computer via previously set up keys.
+  I pressed: `<up><up><up><enter>` as "bash test.sh" was saved 3 up in the search history,  
+  this reruns the tests from step 6, but with now "ListExamples.java" has changes to it.
 
   #### Step 9: ![Step9](Step9.png)
   I typed out "ssh doquendo@ieng6.ucsd.edu", the pressed `<enter>`, this allows  
